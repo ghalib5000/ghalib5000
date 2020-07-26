@@ -12,13 +12,32 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghalib5000&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 
+[![Ghalib's github stats](https://github-readme-stats.vercel.app/api?username=ghalib5000&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghalib5000&count_private=true&show_icons=true&theme=cobalt" />
+  <img  align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghalib5000&theme=cobalt" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghalib5000&theme=cobalt" />
+
+<a href="https://github.com/ghalib5000/PC-Camera">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ghalib5000&repo=PC-Camera&theme=cobalt" />
 </a>
+
+
+<a href="https://github.com/ghalib5000/My-Twitter-Bot">
+  <img align="right"  src="https://github-readme-stats.vercel.app/api/pin/?username=ghalib5000&repo=My-Twitter-Bot&theme=cobalt" />
+</a>
+
+
+
+
+
+
+
