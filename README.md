@@ -19,10 +19,13 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  align="left" height=350px src="https://github-readme-stats.vercel.app/api?username=ghalib5000&count_private=true&show_icons=true&theme=cobalt" />
+  <img  
+  height=365px
+ src="https://github-readme-stats.vercel.app/api?username=ghalib5000&count_private=true&show_icons=true&theme=cobalt" />
 </a>
 
 
+</div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img  align="left" height=365px   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghalib5000&theme=cobalt" />
 </a>
