@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 -->
 
-[![Ghalib's github stats](https://github-readme-stats.vercel.app/api?username=ghalib5000&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img  align="left" height=300px src="https://github-readme-stats.vercel.app/api?username=ghalib5000&count_private=true&show_icons=true&theme=cobalt" />
+</a>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
