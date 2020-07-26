@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 -->
 
 
-[![Ghalib's github stats](https://github-readme-stats.vercel.app/api?username=ghalib5000&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghalib5000&count_private=true&show_icons=true&theme=cobalt" />
+</a>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghalib5000&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghalib5000&theme=cobalt" />
+</a>
